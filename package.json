@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "Peter Berry",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "sharp": "^0.34.5"
+  }
 }

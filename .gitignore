@@ -146,3 +146,10 @@ dist
 # IDE
 .idea/
 .vscode/
+
+# App
+data/
+output/
+dist/
+package-lock.json
+
